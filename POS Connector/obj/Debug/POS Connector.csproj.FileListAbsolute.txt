@@ -1,0 +1,10 @@
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\POS Connector.exe.config
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\POS Connector.pdb
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Connector.csprojResolveAssemblyReference.cache
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS_Connector.ServicePOS.resources
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Connector.csproj.GenerateResource.Cache
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Connector.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Connector.exe
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Connector.pdb
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\mysql.data.dll

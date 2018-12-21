@@ -1,0 +1,384 @@
+﻿Installing assembly 'C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Creating EventLog source ServicePOSSync in log Application...
+Rolling back assembly 'D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Restoring event log to previous state for source ServicePOSSync.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Creating EventLog source ServicePOSSync in log Application...
+Rolling back assembly 'D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = D:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Restoring event log to previous state for source ServicePOSSync.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Creating EventLog source ServicePOSSync in log Application...
+Rolling back assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Restoring event log to previous state for source ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Creating EventLog source ServicePOSSync in log Application...
+Rolling back assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Restoring event log to previous state for source ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Creating EventLog source ServicePOSSync in log Application...
+Rolling back assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Restoring event log to previous state for source ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\Pos Connector.exe
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+Removing EventLog source ServicePOSSync.
+Service ServicePOSSync is being removed from the system...
+Service ServicePOSSync was successfully removed from the system.
+Attempt to stop service ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+Removing EventLog source ServicePOSSync.
+Service ServicePOSSync is being removed from the system...
+Service ServicePOSSync was successfully removed from the system.
+Attempt to stop service ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+Removing EventLog source ServicePOSSync.
+Service ServicePOSSync is being removed from the system...
+Service ServicePOSSync was successfully removed from the system.
+Attempt to stop service ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+Removing EventLog source ServicePOSSync.
+Service ServicePOSSync is being removed from the system...
+Service ServicePOSSync was successfully removed from the system.
+Attempt to stop service ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+Removing EventLog source ServicePOSSync.
+Service ServicePOSSync is being removed from the system...
+Service ServicePOSSync was successfully removed from the system.
+Attempt to stop service ServicePOSSync.
+Installing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Installing service ServicePOSSync...
+Service ServicePOSSync has been successfully installed.
+Creating EventLog source ServicePOSSync in log Application...
+Committing assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\POS Connector\POS Connector\bin\Debug\POS Connector.InstallLog
+   assemblypath = E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+Removing EventLog source ServicePOSSync.
+Service ServicePOSSync is being removed from the system...
+Service ServicePOSSync was successfully removed from the system.
+Attempt to stop service ServicePOSSync.

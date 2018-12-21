@@ -1,0 +1,23 @@
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\POS Connector.exe.config
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\POS Connector.pdb
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\mysql.data.dll
+C:\Users\frank\source\repos\POS Connector\POS Connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS_Connector.ServicePOS.resources
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Service.csproj.GenerateResource.Cache
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Service.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Connector.exe
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS Connector.pdb
+C:\Users\frank\source\repos\POS Connector\POS Connector\obj\Debug\POS_Connector.ProjectInstaller.resources
+E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe.config
+E:\POS Connector\POS Connector\obj\Debug\POS Connector.exe
+E:\POS Connector\POS Connector\obj\Debug\POS Connector.pdb
+E:\POS Connector\POS Connector\bin\Debug\POS Connector.exe
+E:\POS Connector\POS Connector\bin\Debug\POS Connector.pdb
+E:\POS Connector\POS Connector\obj\Debug\POS_Connector.ProjectInstaller.resources
+E:\POS Connector\POS Connector\obj\Debug\POS_Connector.ServicePOS.resources
+E:\POS Connector\POS Connector\obj\Debug\POS Service.csproj.GenerateResource.Cache
+E:\POS Connector\POS Connector\bin\Debug\Newtonsoft.Json.dll
+E:\POS Connector\POS Connector\obj\Debug\POS Service.csprojAssemblyReference.cache
+E:\POS Connector\POS Connector\obj\Debug\POS Service.csproj.CoreCompileInputs.cache
+E:\POS Connector\POS Connector\obj\Debug\POS Service.csproj.CopyComplete
